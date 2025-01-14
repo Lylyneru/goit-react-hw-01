@@ -1,0 +1,10 @@
+.appContainer {
+  text-align: center;
+  margin: 20px;
+}
+
+.friendListContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
